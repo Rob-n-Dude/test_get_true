@@ -1,2 +1,4 @@
 const getTrue = () => true
-module.export= getTrue
+module.exports = {
+    getTrue
+}
