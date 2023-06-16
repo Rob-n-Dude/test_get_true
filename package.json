@@ -1,0 +1,19 @@
+{
+  "name": "test_app_get_true",
+  "version": "1.0.0",
+  "description": "I will return true for you ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rob-n-Dude/test_get_true.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rob-n-Dude/test_get_true/issues"
+  },
+  "homepage": "https://github.com/Rob-n-Dude/test_get_true#readme"
+}
