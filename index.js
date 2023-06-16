@@ -1,2 +1,2 @@
 const getTrue = () => true
-export { getTrue }
+module.export= getTrue
