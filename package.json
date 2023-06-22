@@ -1,6 +1,6 @@
 {
   "name": "test_app_get_true",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "I will return true for you ;)",
   "main": "index.js",
   "scripts": {
